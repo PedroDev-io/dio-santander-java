@@ -1,10 +1,5 @@
 # List Interface
 
-<p align="center">
-<img src="https://github.com/cami-la/collections-java-api-2023/raw/master/assets/image/list-interface-hierarchy.png="List interface hierarchy Java"><br>
-<a href="https://data-flair.training/blogs/collection-framework-in-java/">Hierarchy of Collection Framework in Java </a>
-</p>
-
 - A interface <code>List</code> é uma coleção ordenada que permite a inclusão de elementos duplicados.
 - É um dos tipos de coleção mais utilizados em Java, e as classes de implementação comuns são <code>ArrayList</code> e <code>LinkedList</code>.
 - A <code>List</code> se assemelha a uma matriz com comprimento dinâmico, permitindo adicionar ou remover elementos.
